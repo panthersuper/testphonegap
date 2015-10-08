@@ -47,3 +47,19 @@ var app = {
         console.log('Received Event: ' + id);
     }
 };
+
+
+$(document).ready(function(){
+
+
+
+    $(".enter").click(function(){
+        $(".startpage").hide();
+        $(".secondpage").fadeIn(500);
+
+    });
+
+
+
+
+});

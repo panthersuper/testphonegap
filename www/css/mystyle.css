@@ -1,0 +1,12 @@
+.enter {
+	display: inline-block;
+	height: 20px;
+	border: 1px black solid;
+	font-size: 20px;
+	padding: 5px;
+	padding-bottom: 8px;
+}
+
+.enter:active {
+	background-color: rgb(100,100,100);
+}

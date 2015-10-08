@@ -1,10 +1,8 @@
 .enter {
 	display: inline-block;
-	height: 20px;
 	border: 1px black solid;
-	font-size: 20px;
-	padding: 5px;
-	padding-bottom: 8px;
+	font-size: 2em;
+	padding: 0.35em;
 }
 
 .enter:active {
